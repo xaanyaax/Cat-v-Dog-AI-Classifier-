@@ -1,4 +1,4 @@
-# 🐱🐶 Cat vs Dog Image Classifier
+# Cat vs Dog Image Classifier
 
 A Convolutional Neural Network (CNN) built using TensorFlow to classify images as **Cat** or **Dog**.
 
