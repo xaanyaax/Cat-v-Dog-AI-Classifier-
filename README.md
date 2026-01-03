@@ -31,5 +31,4 @@ Achieved ~70–80% validation accuracy after 10 epochs.
 <img width="904" height="736" alt="image" src="https://github.com/user-attachments/assets/106db9af-513c-48be-8567-0718de766637" />
 
 
-## 👤 Author
-Aanya Singh
+
